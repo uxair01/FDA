@@ -1,5 +1,7 @@
 {
   "name": "Food-Delivery-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
